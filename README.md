@@ -1,3 +1,5 @@
 # Septem
-This is a project by Joy Mwasi.
-It's a first project in Devops jourey.
+This is a html project.
+It's my first project - My PORTFOLIO
+Created by JOY MWASI
+https://jomwasi.github.io/Septem/
